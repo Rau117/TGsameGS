@@ -8,16 +8,16 @@ STR_LINKS_TITLE         : Join us {}{}
 
 ### WELCOME
 ###
-STR_WELCOME_WELCOME     : {ORANGE} Welcome to {GREEN} "TG_Vanilla server" {ORANGE}{COMPANY}! {}{}
+STR_WELCOME_WELCOME     : {ORANGE} Welcome to {GREEN} "TG_Vanilla server" {ORANGE} {COMPANY}! {}{}
 STR_WELCOME_AWARE       : {ORANGE} Important: {BLACK} Company will be removed in 4 hours after last player leave it. {}{}
-STR_WELCOME_RULES       : {GREEN} Please: {BLACK} Keep in mind that there are rules on this server. {}{}
+STR_WELCOME_RULES       : {GREEN} Please: {BLACK} Keep in mind that there are rules on this server and for non-compliance with the rules, you may face a ban or removal of your company. {}{}
 
 ### RULES
 ###
-STR_RULES_STEALLING     : {BLACK}- {ORANGE} No stealing {BLACK}: you cannot connect to any taken industry. Not primary, not secondary. Except power plant.{}{}
-STR_RULES_TELEPORT      : {BLACK}- {ORANGE} No teleporting {BLACK}: make distance between station name and vehicle arrival point minimal. You still can spread station around to get more cargo, transfer stations mus be physically connected (no more than 2 tiles between platforms).{}{}
-STR_RULES_GRIDS         : {BLACK}- {ORANGE} No city grids {BLACK}: 3x3 road cells to make city grow faster. Only tiny fixes inside the city. If you are really need some roads in city, make sure you don't miss «natural» 3x3 grid.{}{}
-STR_RULES_CENTRAL       : {BLACK}- {ORANGE} Do not destroy the central tile and roads of the city! {}{}
+STR_RULES_STEALLING     : {BLACK}- {ORANGE} No stealing {BLACK}: you cannot use any taken industry. Not primary, not secondary. The "owner" of the industry is the one who first built the station. If the station has not been used for more than 5 years, "ownership" is cancelled. {}{}
+STR_RULES_TELEPORT      : {BLACK}- {ORANGE} No teleporting {BLACK}: make distance between station name and vehicle arrival point minimal. You still can use station spreading get more cargo (CTRL+click with any station tool).{}{}
+STR_RULES_GRIDS         : {BLACK}- {ORANGE} No city grids {BLACK}: 3x3 road cells to make city grow faster. If you are really need to build city grids, you need to create new company, build everything you need and leave company without a password. Make sure you don't miss «natural» 3x3 grid.{}{}
+STR_RULES_CENTRAL       : {BLACK}- {ORANGE} Do not block the central tile and roads of the city! {}{}
 STR_RULES_FORBIDS       : {RED} Forbidden: Blocking / Griefing / Trolling !!!{}{}
 
 ### SETTINGS
