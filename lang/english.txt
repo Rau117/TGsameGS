@@ -1,1 +1,39 @@
-STR_MOTD        :Welcome to {ORANGE}"TG_Vanilla server" {GREEN}{COMPANY}!{}{BLACK}{}Game years: 1940-2055{}{ORANGE}Company will be removed in 4 hours after last player leave it.{}{}{GREEN}Please keep in mind that there are rules on this server.{}{}{BLACK}- {RED}No stealing {BLACK}: you cannot connect to any taken industry. Not primary, not secondary. Except power plant. {}{}- {RED}No teleporting {BLACK}: make distance between station name and vehicle arrival point minimal. You still can spread station around to get more cargo, transfer stations mus be physically connected (no more than 2 tiles between platforms). {}{}- {RED}No city grids {BLACK}: 3x3 road cells to make city grow faster. Only tiny fixes inside the city. If you are really need some roads in city, make sure you don't miss «natural» 3x3 grid. {}{}{RED}Do not destroy the central tile and roads of the city! {}{RED}Forbidden: Blocking / Griefing / Trolling {}{}{}{}{BLACK}- {ORANGE}You can also find us on the social links: {}{}{BLACK}- https://tg-ottd.org {}{}- https://t.me/TG_OpenTTD {}{}- https://discord.gg/qXBPgCpsnT
+### TITLES
+###
+STR_WELCOME_TITLE       : Welcome on TeamGame_OpenTTD community server {}{}
+STR_RULES_TITLE         : Rules {}{}
+STR_SETTINGS_TITLE      : Server Settings {}{}
+STR_STUFF_TITLE         : Admin staff of our community {}{}
+STR_LINKS_TITLE         : Join us {}{}
+
+### WELCOME
+###
+STR_WELCOME_WELCOME     : {ORANGE} Welcome to {GREEN} "TG_Vanilla server" {ORANGE}{COMPANY}! {}{}
+STR_WELCOME_AWARE       : {ORANGE} Important: {BLACK} Company will be removed in 4 hours after last player leave it. {}{}
+STR_WELCOME_RULES       : {GREEN} Please: {BLACK} Keep in mind that there are rules on this server. {}{}
+
+### RULES
+###
+STR_RULES_STEALLING     : {BLACK}- {ORANGE} No stealing {BLACK}: you cannot connect to any taken industry. Not primary, not secondary. Except power plant.{}{}
+STR_RULES_TELEPORT      : {BLACK}- {ORANGE} No teleporting {BLACK}: make distance between station name and vehicle arrival point minimal. You still can spread station around to get more cargo, transfer stations mus be physically connected (no more than 2 tiles between platforms).{}{}
+STR_RULES_GRIDS         : {BLACK}- {ORANGE} No city grids {BLACK}: 3x3 road cells to make city grow faster. Only tiny fixes inside the city. If you are really need some roads in city, make sure you don't miss «natural» 3x3 grid.{}{}
+STR_RULES_CENTRAL       : {BLACK}- {ORANGE} Do not destroy the central tile and roads of the city! {}{}
+STR_RULES_FORBIDS       : {RED} Forbidden: Blocking / Griefing / Trolling !!!{}{}
+
+### SETTINGS
+###
+STR_SETTINGS_YEARS      : {BLACK}- Game years: 1940-2055{}{}
+
+### STUFF
+###
+
+### LINKS
+###
+STR_LINK_PRE            : {}{}{BLACK}- {ORANGE} You can also find us on the social links: {}{}
+STR_LINK_TELEGRAM       : {}{}{BLACK}- https://t.me/TG_OpenTTD {}{}
+STR_LINK_DISCORD        : {}{}{BLACK}- https://discord.gg/qXBPgCpsnT {}}{}
+STR_LINK_WEB            : {}{}{BLACK}- https://tg-ottd.org {}{}
+
+### MISC
+###
+STR_ACCEPT 		        : Accept
